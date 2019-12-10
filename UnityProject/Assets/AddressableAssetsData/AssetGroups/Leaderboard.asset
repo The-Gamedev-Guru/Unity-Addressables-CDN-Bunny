@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Leaderboard
+  m_EditorClassIdentifier: 
+  m_GroupName: Leaderboard
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f686286d23a1ae94ab8fe8c54ccfbe98
+  m_SerializeEntries:
+  - m_GUID: 12821d5f9290b5648a3b486a523aa5f8
+    m_Address: addressables-level-3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1807a3c4728ad274eac404612fe805cf
+    m_Address: LeaderboardUI.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: fa618519722f70d4c9ed2215607f6813, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f4a111046123213428856589a9e4b8c3, type: 2}
+    - {fileID: 11400000, guid: e607d374bd37b1b4bab98d832037d91b, type: 2}

@@ -24,6 +24,7 @@ MonoBehaviour:
   m_GroupAssets:
   - {fileID: 11400000, guid: 21e8a392afdc06b439397e95eedeadd0, type: 2}
   - {fileID: 11400000, guid: b660ffa3a3f292e44b891f3b779c92d5, type: 2}
+  - {fileID: 11400000, guid: de0b665bf5d834e4c8f89e8a23eb7c56, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -33,7 +34,7 @@ MonoBehaviour:
     m_Profiles:
     - m_InheritedParent: 
       m_Id: 578dafb60536ece4ab29769c909182dd
-      m_ProfileName: Default
+      m_ProfileName: Production
       m_Values:
       - m_Id: 477718226f93a694587ace39c2d00f79
         m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
@@ -44,7 +45,7 @@ MonoBehaviour:
       - m_Id: d00811706e10d6c4797409bad91463b3
         m_Value: ServerData/[BuildTarget]
       - m_Id: 3ad80520f28fa75429d579af2f69667b
-        m_Value: http://localhost/[BuildTarget]
+        m_Value: http://thegamedevgurutests.b-cdn.net/posts/bunnycdn/[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: 477718226f93a694587ace39c2d00f79
       m_Name: BuildTarget
